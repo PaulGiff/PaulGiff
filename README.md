@@ -20,4 +20,4 @@
 [<img align="left" alt="Paul Gifford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: www.linkedin.com/in/paul-d-gifford
+[linkedin]: https:\\www.linkedin.com/in/paul-d-gifford
