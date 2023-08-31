@@ -17,7 +17,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Paul Gifford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/paul-giff/
+<a href="https://www.linkedin.com/in/paul-giff"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Paul Gifford | LinkedIn" width="21px"/></a>
